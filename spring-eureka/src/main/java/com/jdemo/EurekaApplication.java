@@ -1,4 +1,4 @@
-package com.jdmo;
+package com.jdemo;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
@@ -7,7 +7,7 @@ import org.springframework.cloud.netflix.eureka.server.EnableEurekaServer;
 /**
  * Eureka服务注册与发现.
  *
- * @author sunmeng
+ * @author SKIES
  *         2023-03-14 15:35
  */
 @SpringBootApplication
